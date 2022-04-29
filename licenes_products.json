@@ -1,0 +1,29 @@
+{
+  "TEAMS_EXPLORATORY": ["710779e8-3d4a-4c88-adb9-386c958d1fdf"],
+  "E1": ["18181a46-0d4e-45cd-891e-60aabd171b4e"],
+  "E3": [
+    "efccb6f7-5641-4e0e-bd10-b4976e1bf68e",
+    "05e9a617-0261-4cee-bb44-138d3ef5d965",
+    "c2ac2ee4-9bb1-47e4-8541-d689c7e83371",
+    "ca9d1dd9-dfe9-4fef-b97c-9bc1ea3c3658",
+    "6fd2c87f-b296-42f0-b197-1e91e994b900",
+    "189a915c-fe4f-4ffa-bde4-85b9628d07a0"
+  ],
+  "E5": [
+    "06ebc4ee-1bb5-47dd-8120-11324bc54e06",
+    "184efa21-98c3-4e5d-95ab-d07053a96e67",
+    "cd2925a3-5076-4233-8931-638a8c94f773",
+    "c7df2760-2c81-4ef7-b578-5b5392b571df",
+    "26d45bd9-adf1-46cd-a9e1-51e9a5524128"
+  ],
+  "MTR_STANDARD": ["6070a4c8-34c6-4937-8dfb-39bbc6397a60"],
+  "MTR_PREMIUM": ["4fb214cb-a430-4a91-9c91-4976763aa78f"],
+  "COMMON_AREA_PHONE": ["295a8eb0-f78d-45c7-8b5b-1eed5ed02dff"],
+  "PHONE_SYSTEM": [
+    "e43b5b99-8dfb-405f-9987-dc307f34bcbd",
+    "d979703c-028d-4de5-acbf-7955566b69b9",
+    "aa6791d3-bb09-4bc2-afed-c30c3fe26032",
+    "1f338bbc-767e-4a1e-a2d4-b73207cc5b93"
+  ],
+  "PHONE_SYSTEM_VIRTUAL_USER": ["440eaaa8-b3e0-484b-a8be-62870b9ba70a"]
+}
