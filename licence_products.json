@@ -23,7 +23,10 @@
     "F3": [
       "66b55226-6b4f-492c-910c-a3b7a3c9d993",
       "4b585984-651b-448a-9e53-3b10f069cf7f"
-     ]
+     ],
+    "AUDIO_CONFERENCING": [
+      "0c266dff-15dd-4b49-8397-2bb16070ed52"
+    ]
   },
   "phone_license": {
     "MTR_STANDARD": ["6070a4c8-34c6-4937-8dfb-39bbc6397a60"],
