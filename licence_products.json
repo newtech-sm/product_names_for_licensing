@@ -26,6 +26,12 @@
      ],
     "AUDIO_CONFERENCING": [
       "0c266dff-15dd-4b49-8397-2bb16070ed52"
+    ],
+    "BUSINESS_STANDARD": [
+      "f245ecc8-75af-4f8e-b61f-27d8114de5f3"
+    ],
+    "BUSINESS_PREMIUM": [
+      "cbdc14ab-d96c-4c30-b9f4-6ada7cdc1d46"
     ]
   },
   "phone_license": {
