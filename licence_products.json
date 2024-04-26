@@ -37,6 +37,7 @@
   "phone_license": {
     "MTR_STANDARD": ["6070a4c8-34c6-4937-8dfb-39bbc6397a60"],
     "MTR_PREMIUM": ["4fb214cb-a430-4a91-9c91-4976763aa78f"],
+    "MTR_BASIC": ["6af4b3d6-14bb-4a2a-960c-6c902aad34f3"],
     "MTR_PRO": ["4cde982a-ede4-4409-9ae6-b003453c8ea6"],
     "COMMON_AREA_PHONE": ["295a8eb0-f78d-45c7-8b5b-1eed5ed02dff"],
     "PHONE_SYSTEM": [
