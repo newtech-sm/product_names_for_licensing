@@ -1,38 +1,106 @@
 {
   "office_license": {
-    "TEAMS_EXPLORATORY": ["710779e8-3d4a-4c88-adb9-386c958d1fdf"],
+    "A1": [
+      "b17653a4-2443-4e8c-a550-18249dda78bb",
+      "94763226-9b3c-4e75-a931-5c89701abe66",
+      "78e66a63-337a-4a9a-8959-41c6654dfb56",
+      "314c4481-f395-4525-be8b-2ec4bb1e9d91",
+      "e82ae690-a2d5-4d76-8d30-7c6e01e6022e"
+    ],
+    "A3": [
+      "4b590615-0888-425a-a965-b3bf7789848d",
+      "7cfd9a2b-e110-4c39-bf20-c6a3f36a3121",
+      "18250162-5d87-4436-a834-d795c15c80f3",
+      "1aa94593-ca12-4254-a738-81a5972958e8",
+      "e578b273-6db4-4691-bba0-8d691f4da603",
+      "98b6e773-24d4-4c0d-a968-6e787a1f8204"
+    ],
+    "A5": [
+      "e97c048c-37a4-45fb-ab50-922fbf07a370",
+      "46c119d4-0379-4a9d-85e4-97c66d3f909e",
+      "31d57bc7-3a05-4867-ab53-97a17835a411",
+      "81441ae1-0b31-4185-a6c0-32b6b84d419f",
+      "a4585165-0533-458a-97e3-c400570268c4",
+      "ee656612-49fa-43e5-b67e-cb1fdf7699df"
+    ],
+    "TEAMS_EXPLORATORY": ["710779e8-3d4a-4c88-adb9-386c958d1fdf", "e0dfc8b9-9531-4ec8-94b4-9fec23b05fc8"],
     "E1": ["18181a46-0d4e-45cd-891e-60aabd171b4e"],
+    "E1_NO_TEAMS": ["b57282e3-65bd-4252-9502-c0eae1e5ab7f"],
     "E3": [
       "05e9a617-0261-4cee-bb44-138d3ef5d965",
       "c2ac2ee4-9bb1-47e4-8541-d689c7e83371",
+      "0c21030a-7e60-4ec7-9a0f-0042e0e0211a",
+      "d61d61cc-f992-433f-a577-5bd016037eeb",
       "ca9d1dd9-dfe9-4fef-b97c-9bc1ea3c3658",
       "6fd2c87f-b296-42f0-b197-1e91e994b900",
       "189a915c-fe4f-4ffa-bde4-85b9628d07a0",
-      "dcf0408c-aaec-446c-afd4-43e3683943ea"
+      "b107e5a3-3e60-4c0d-a184-a7e4395eb44c",
+      "aea38a85-9bd5-4981-aa00-616b411205bf"
+    ],
+    "E3_NO_TEAMS": [
+      "c2fe850d-fbbb-4858-b67d-bd0c6e746da3",
+      "a23dbafb-3396-48b3-ad9c-a304fe206043",
+      "602e6573-55a3-46b1-a1a0-cc267991501a",
+      "d711d25a-a21c-492f-bd19-aae1e8ebaf30"
     ],
     "E5": [
       "06ebc4ee-1bb5-47dd-8120-11324bc54e06",
+      "db684ac5-c0e7-4f92-8284-ef9ebde75d33",
+      "c42b9cae-ea4f-4ab7-9717-81576235ccac",
+      "a91fc4e0-65e5-4266-aa76-4037509c1626",
       "184efa21-98c3-4e5d-95ab-d07053a96e67",
       "cd2925a3-5076-4233-8931-638a8c94f773",
+      "2113661c-6509-4034-98bb-9c47bd28d63c",
+      "4eb45c5b-0d19-4e33-b87c-adfc25268f20",
       "c7df2760-2c81-4ef7-b578-5b5392b571df",
       "26d45bd9-adf1-46cd-a9e1-51e9a5524128"
+    ],
+    "E5_NO_TEAMS": [
+      "3271cf8e-2be5-4a09-a549-70fd05baaa17",
+      "1e988bf3-8b7c-4731-bec0-4e2a2946600c",
+      "6ee4114a-9b2d-4577-9e7a-49fa43d222d3",
+      "90277bc7-a6fe-4181-99d8-712b08b8d32b",
+      "a640eead-25f6-4bec-97e3-23cfd382d7c2",
+      "cf50bae9-29e8-4775-b07c-56ee10e3776d",
+      "71772aeb-4bb8-4f74-9dd4-36c7a9b5ca74"
     ],
     "F1": [
       "44575883-256e-4a79-9da4-ebe9acabe2b2",
       "50f60901-3181-4b75-8a2c-4c8e4c1d5a72"
     ],
+    "F1_NO_TEAMS": ["0666269f-b167-4c5b-a76f-fc574f2b1118"],
     "F3": [
       "66b55226-6b4f-492c-910c-a3b7a3c9d993",
-      "4b585984-651b-448a-9e53-3b10f069cf7f"
-     ],
+      "2a914830-d700-444a-b73c-e3f31980d833",
+      "4b585984-651b-448a-9e53-3b10f069cf7f",
+      "74039b88-bd62-4b5c-9d9c-7a92bbc0bfdf"
+    ],
+    "F3_NO_TEAMS": [
+      "f7ee79a7-7aec-4ca4-9fb9-34d6b930ad87",
+      "d1f0495b-cb7b-4e11-8b85-daee7e7e5664"
+    ],
     "AUDIO_CONFERENCING": [
       "0c266dff-15dd-4b49-8397-2bb16070ed52"
     ],
+    "BUSINESS_BASIC": [
+      "3b555118-da6a-4418-894f-7df1e2096870",
+      "dab7782a-93b1-4074-8bb1-0e61318bea0b"
+    ],
+    "BUSINESS_BASIC_NO_TEAMS": [
+      "b1f3042b-a390-4b56-ab61-b88e7e767a97"
+    ],
     "BUSINESS_STANDARD": [
-      "f245ecc8-75af-4f8e-b61f-27d8114de5f3"
+      "f245ecc8-75af-4f8e-b61f-27d8114de5f3",
+      "ac5cef5d-921b-4f97-9ef3-c99076e5470f"
+    ],
+    "BUSINESS_STANDARD_NO_TEAMS": [
+      "c1f79c29-5d7a-4bec-a2c1-1a76774864c0"
     ],
     "BUSINESS_PREMIUM": [
       "cbdc14ab-d96c-4c30-b9f4-6ada7cdc1d46"
+    ],
+    "BUSINESS_PREMIUM_NO_TEAMS": [
+      "a3f586b6-8cce-4d9b-99d6-55238397f77a"
     ]
   },
   "phone_license": {
