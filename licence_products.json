@@ -123,6 +123,7 @@
       "aa6791d3-bb09-4bc2-afed-c30c3fe26032",
       "1f338bbc-767e-4a1e-a2d4-b73207cc5b93"
     ],
-    "PHONE_SYSTEM_VIRTUAL_USER": ["440eaaa8-b3e0-484b-a8be-62870b9ba70a"]
+    "PHONE_SYSTEM_VIRTUAL_USER": ["440eaaa8-b3e0-484b-a8be-62870b9ba70a"],
+    "PHONESYSTEM_VIRTUALUSER_FACULTY":["0e142028-345e-45da-8d92-8bfd4093bbb9"]
   }
 }
