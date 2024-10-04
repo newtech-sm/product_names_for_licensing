@@ -108,7 +108,11 @@
     "MTR_PREMIUM": ["4fb214cb-a430-4a91-9c91-4976763aa78f"],
     "MTR_BASIC": ["6af4b3d6-14bb-4a2a-960c-6c902aad34f3"],
     "MTR_PRO": ["4cde982a-ede4-4409-9ae6-b003453c8ea6"],
-    "COMMON_AREA_PHONE": ["295a8eb0-f78d-45c7-8b5b-1eed5ed02dff"],
+    "COMMON_AREA_PHONE": [
+      "295a8eb0-f78d-45c7-8b5b-1eed5ed02dff",
+      "420c7602-7f70-4895-9394-d3d679ea36fb",
+      "b1511558-69bd-4e1b-8270-59ca96dba0f3"
+    ],
     "PHONE_SYSTEM": [
       "e43b5b99-8dfb-405f-9987-dc307f34bcbd",
       "d979703c-028d-4de5-acbf-7955566b69b9",
