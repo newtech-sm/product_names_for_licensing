@@ -381,6 +381,20 @@
                 "skuId": "74039b88-bd62-4b5c-9d9c-7a92bbc0bfdf"
             }
         ],
+        "TEAMS_EXPLORATORY": [
+            {
+                "displayName": "Microsoft Teams Exploratory",
+                "skuPartNumber": "TEAMS_EXPLORATORY",
+                "skuId": "710779e8-3d4a-4c88-adb9-386c958d1fdf"
+            },
+            {
+                "displayName": "Microsoft Teams Exploratory Dept",
+                "skuPartNumber": "Microsoft_Teams_Exploratory_Dept",
+                "skuId": "e0dfc8b9-9531-4ec8-94b4-9fec23b05fc8"
+            }
+        ]
+    },
+    "ADDON": {
         "MICROSOFT_TEAMS": [
             {
                 "displayName": "Microsoft Teams Trial",
@@ -403,20 +417,6 @@
                 "skuId": "7e31c0d9-9551-471d-836f-32ee72be4a01"
             }
         ],
-        "TEAMS_EXPLORATORY": [
-            {
-                "displayName": "Microsoft Teams Exploratory",
-                "skuPartNumber": "TEAMS_EXPLORATORY",
-                "skuId": "710779e8-3d4a-4c88-adb9-386c958d1fdf"
-            },
-            {
-                "displayName": "Microsoft Teams Exploratory Dept",
-                "skuPartNumber": "Microsoft_Teams_Exploratory_Dept",
-                "skuId": "e0dfc8b9-9531-4ec8-94b4-9fec23b05fc8"
-            }
-        ]
-    },
-    "PHONE_LICENSE": {
         "COMMON_AREA_PHONE": [
             {
                 "displayName": "Microsoft Teams Shared Devices",
