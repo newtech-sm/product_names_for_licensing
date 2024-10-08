@@ -631,7 +631,7 @@
             "skuPartNumber": "PHONESYSTEM_VIRTUALUSER_FACULTY",
             "displayName": "Microsoft Teams Phone Resource Account for Faculty",
             "skuId": "0e142028-345e-45da-8d92-8bfd4093bbb9",
-            "tier": "PHONE_SYSTEM_VIRTUAL_USER"
+            "tier": "PHONE_SYSTEM_VIRTUAL_USER_FACULTY"
         },
         {
             "skuPartNumber": "PHONESYSTEM_VIRTUALUSER_GOV",
