@@ -504,81 +504,81 @@
         ],
         "PHONE_SYSTEM": [
             {
-                "skuId": "e43b5b99-8dfb-405f-9987-dc307f34bcbd",
                 "skuPartNumber": "MCOEV",
-                "displayName": "Microsoft Teams Phone Standard"
+                "displayName": "Microsoft Teams Phone Standard",
+                "skuId": "e43b5b99-8dfb-405f-9987-dc307f34bcbd"
             },
             {
-                "skuId": "d01d9287-694b-44f3-bcc5-ada78c8d953e",
                 "skuPartNumber": "MCOEV_DOD",
-                "displayName": "Microsoft Teams Phone Standard for DOD"
+                "displayName": "Microsoft Teams Phone Standard for DOD",
+                "skuId": "d01d9287-694b-44f3-bcc5-ada78c8d953e"
             },
             {
-                "skuId": "d979703c-028d-4de5-acbf-7955566b69b9",
                 "skuPartNumber": "MCOEV_FACULTY",
-                "displayName": "Microsoft Teams Phone Standard for Faculty"
+                "displayName": "Microsoft Teams Phone Standard for Faculty",
+                "skuId": "d979703c-028d-4de5-acbf-7955566b69b9"
             },
             {
-                "skuId": "a460366a-ade7-4791-b581-9fbff1bdaa85",
                 "skuPartNumber": "MCOEV_GOV",
-                "displayName": "Microsoft Teams Phone Standard for GCC"
+                "displayName": "Microsoft Teams Phone Standard for GCC",
+                "skuId": "a460366a-ade7-4791-b581-9fbff1bdaa85"
             },
             {
-                "skuId": "a460366a-ade7-4791-b581-9fbff1bdaa85",
                 "skuPartNumber": "MCOEV_GOV",
-                "displayName": "Microsoft Teams Phone Standard for GCC"
+                "displayName": "Microsoft Teams Phone Standard for GCC",
+                "skuId": "a460366a-ade7-4791-b581-9fbff1bdaa85"
             },
             {
-                "skuId": "7035277a-5e49-4abc-a24f-0ec49c501bb5",
                 "skuPartNumber": "MCOEV_GCCHIGH",
-                "displayName": "Microsoft Teams Phone Standard for GCCHIGH"
+                "displayName": "Microsoft Teams Phone Standard for GCCHIGH",
+                "skuId": "7035277a-5e49-4abc-a24f-0ec49c501bb5"
             },
             {
-                "skuId": "aa6791d3-bb09-4bc2-afed-c30c3fe26032",
                 "skuPartNumber": "MCOEVSMB_1",
-                "displayName": "Microsoft Teams Phone Standard for Small and Medium Business"
+                "displayName": "Microsoft Teams Phone Standard for Small and Medium Business",
+                "skuId": "aa6791d3-bb09-4bc2-afed-c30c3fe26032"
             },
             {
-                "skuId": "1f338bbc-767e-4a1e-a2d4-b73207cc5b93",
                 "skuPartNumber": "MCOEV_STUDENT",
-                "displayName": "Microsoft Teams Phone Standard for Students"
+                "displayName": "Microsoft Teams Phone Standard for Students",
+                "skuId": "1f338bbc-767e-4a1e-a2d4-b73207cc5b93"
             },
             {
-                "skuId": "ffaf2d68-1c95-4eb3-9ddd-59b81fba0f61",
                 "skuPartNumber": "MCOEV_TELSTRA",
-                "displayName": "Microsoft Teams Phone Standard for TELSTRA"
+                "displayName": "Microsoft Teams Phone Standard for TELSTRA",
+                "skuId": "ffaf2d68-1c95-4eb3-9ddd-59b81fba0f61"
             },
             {
-                "skuId": "b0e7de67-e503-4934-b729-53d595ba5cd1",
                 "skuPartNumber": "MCOEV_USGOV_DOD",
-                "displayName": "Microsoft Teams Phone Standard_USGOV_DOD"
+                "displayName": "Microsoft Teams Phone Standard_USGOV_DOD",
+                "skuId": "b0e7de67-e503-4934-b729-53d595ba5cd1"
             },
             {
-                "skuId": "985fcb26-7b94-475b-b512-89356697be71",
                 "skuPartNumber": "MCOEV_USGOV_GCCHIGH",
-                "displayName": "Microsoft Teams Phone Standard_USGOV_GCCHIGH"
+                "displayName": "Microsoft Teams Phone Standard_USGOV_GCCHIGH",
+                "skuId": "985fcb26-7b94-475b-b512-89356697be71"
             }
         ],
         "PHONE_SYSTEM_VIRTUAL_USER": [
             {
-                "skuId": "440eaaa8-b3e0-484b-a8be-62870b9ba70a",
                 "skuPartNumber": "PHONESYSTEM_VIRTUALUSER",
-                "displayName": "Microsoft Teams Phone Resource Account"
+                "displayName": "Microsoft Teams Phone Resource Account",
+                "skuId": "440eaaa8-b3e0-484b-a8be-62870b9ba70a"
             },
             {
-                "skuId": "0e142028-345e-45da-8d92-8bfd4093bbb9",
                 "skuPartNumber": "PHONESYSTEM_VIRTUALUSER_FACULTY",
-                "displayName": "Microsoft Teams Phone Resource Account for Faculty"
+                "displayName": "Microsoft Teams Phone Resource Account for Faculty",
+                "skuId": "0e142028-345e-45da-8d92-8bfd4093bbb9"
             },
             {
-                "skuId": "2cf22bcb-0c9e-4bc6-8daf-7e7654c0f285",
                 "skuPartNumber": "PHONESYSTEM_VIRTUALUSER_GOV",
-                "displayName": "Microsoft Teams Phone Resource Account for GCC"
+                "displayName": "Microsoft Teams Phone Resource Account for GCC",
+                "skuId": "2cf22bcb-0c9e-4bc6-8daf-7e7654c0f285"
             },
             {
-                "skuId": "e3f0522e-ebb7-4561-9f90-b44516d65b77",
                 "skuPartNumber": "PHONESYSTEM_VIRTUALUSER_USGOV_GCCHIGH",
-                "displayName": "Microsoft Teams Phone Resource Account_USGOV_GCCHIGH"
+                "displayName": "Microsoft Teams Phone Resource Account_USGOV_GCCHIGH",
+                "skuId": "e3f0522e-ebb7-4561-9f90-b44516d65b77"
             }
         ]
     }
