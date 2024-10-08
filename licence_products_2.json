@@ -1,0 +1,585 @@
+{
+    "OFFICE_LICENSE": {
+        "A1": [
+            {
+                "displayName": "Microsoft 365 A1",
+                "skuPartNumber": "M365EDU_A1",
+                "skuId": "b17653a4-2443-4e8c-a550-18249dda78bb"
+            },
+            {
+                "displayName": "Office 365 A1 for faculty",
+                "skuPartNumber": "STANDARDWOFFPACK_FACULTY",
+                "skuId": "94763226-9b3c-4e75-a931-5c89701abe66"
+            },
+            {
+                "displayName": "Office 365 A1 Plus for faculty",
+                "skuPartNumber": "STANDARDWOFFPACK_IW_FACULTY",
+                "skuId": "78e66a63-337a-4a9a-8959-41c6654dfb56"
+            },
+            {
+                "displayName": "Office 365 A1 for students",
+                "skuPartNumber": "STANDARDWOFFPACK_STUDENT",
+                "skuId": "314c4481-f395-4525-be8b-2ec4bb1e9d91"
+            },
+            {
+                "displayName": "Office 365 A1 Plus for students",
+                "skuPartNumber": "STANDARDWOFFPACK_IW_STUDENT",
+                "skuId": "e82ae690-a2d5-4d76-8d30-7c6e01e6022e"
+            }
+        ],
+        "A3": [
+            {
+                "displayName": "Microsoft 365 A3 for Faculty",
+                "skuPartNumber": "STANDARDWOFFPACK_IW_STUDENT",
+                "skuId": "4b590615-0888-425a-a965-b3bf7789848d"
+            },
+            {
+                "displayName": "Microsoft 365 A3 for Students",
+                "skuPartNumber": "M365EDU_A3_STUDENT",
+                "skuId": "7cfd9a2b-e110-4c39-bf20-c6a3f36a3121"
+            },
+            {
+                "displayName": "Microsoft 365 A3 for students use benefit",
+                "skuPartNumber": "M365EDU_A3_STUUSEBNFT",
+                "skuId": "18250162-5d87-4436-a834-d795c15c80f3"
+            },
+            {
+                "displayName": "Microsoft 365 A3 - Unattended License for students use benefit",
+                "skuPartNumber": "M365EDU_A3_STUUSEBNFT_RPA1",
+                "skuId": "1aa94593-ca12-4254-a738-81a5972958e8"
+            },
+            {
+                "displayName": "Office 365 A3 for faculty",
+                "skuPartNumber": "ENTERPRISEPACKPLUS_FACULTY",
+                "skuId": "e578b273-6db4-4691-bba0-8d691f4da603"
+            },
+            {
+                "displayName": "Office 365 A3 for faculty",
+                "skuPartNumber": "ENTERPRISEPACKPLUS_FACULTY",
+                "skuId": "e578b273-6db4-4691-bba0-8d691f4da603"
+            },
+            {
+                "displayName": "Office 365 A3 for students",
+                "skuPartNumber": "ENTERPRISEPACKPLUS_STUDENT",
+                "skuId": "98b6e773-24d4-4c0d-a968-6e787a1f8204"
+            }
+        ],
+        "A5": [
+            {
+                "displayName": "Microsoft 365 A5 for Faculty",
+                "skuPartNumber": "M365EDU_A5_FACULTY",
+                "skuId": "e97c048c-37a4-45fb-ab50-922fbf07a370"
+            },
+            {
+                "displayName": "Microsoft 365 A5 for Students",
+                "skuPartNumber": "M365EDU_A5_STUDENT",
+                "skuId": "46c119d4-0379-4a9d-85e4-97c66d3f909e"
+            },
+            {
+                "displayName": "Microsoft 365 A5 for students use benefit",
+                "skuPartNumber": "M365EDU_A5_STUUSEBNFT",
+                "skuId": "31d57bc7-3a05-4867-ab53-97a17835a411"
+            },
+            {
+                "displayName": "Microsoft 365 A5 without Audio Conferencing for students use benefit",
+                "skuPartNumber": "M365EDU_A5_NOPSTNCONF_STUUSEBNFT",
+                "skuId": "81441ae1-0b31-4185-a6c0-32b6b84d419f"
+            },
+            {
+                "displayName": "Office 365 A5 for faculty",
+                "skuPartNumber": "ENTERPRISEPREMIUM_FACULTY",
+                "skuId": "a4585165-0533-458a-97e3-c400570268c4"
+            },
+            {
+                "displayName": "Office 365 A5 for students",
+                "skuPartNumber": "ENTERPRISEPREMIUM_STUDENT",
+                "skuId": "ee656612-49fa-43e5-b67e-cb1fdf7699df"
+            }
+        ],
+        "BUSINESS_BASIC": [
+            {
+                "displayName": "Microsoft 365 Business Basic",
+                "skuPartNumber": "O365_BUSINESS_ESSENTIALS",
+                "skuId": "3b555118-da6a-4418-894f-7df1e2096870"
+            },
+            {
+                "displayName": "Microsoft 365 Business Basic",
+                "skuPartNumber": "SMB_BUSINESS_ESSENTIALS",
+                "skuId": "dab7782a-93b1-4074-8bb1-0e61318bea0b"
+            },
+            {
+                "displayName": "Microsoft 365 Business Basic EEA (no Teams)",
+                "skuPartNumber": "Microsoft_365_Business_Basic_EEA_(no_Teams)",
+                "skuId": "b1f3042b-a390-4b56-ab61-b88e7e767a97",
+                "hasTeams": false
+            }
+        ],
+        "BUSINESS_STANDARD": [
+            {
+                "displayName": "Microsoft 365 Business Standard",
+                "skuPartNumber": "O365_BUSINESS_PREMIUM",
+                "skuId": "f245ecc8-75af-4f8e-b61f-27d8114de5f3"
+            },
+            {
+                "displayName": "Microsoft 365 Business Standard EEA (no Teams)",
+                "skuPartNumber": "Office_365_w/o_Teams_Bundle_Business_Standard",
+                "skuId": "c1f79c29-5d7a-4bec-a2c1-1a76774864c0",
+                "hasTeams": false
+            },
+            {
+                "displayName": "Microsoft 365 Business Standard - Prepaid Legacy",
+                "skuPartNumber": "SMB_BUSINESS_PREMIUM",
+                "skuId": "ac5cef5d-921b-4f97-9ef3-c99076e5470f"
+            }
+        ],
+        "BUSINESS_PREMIUM": [
+            {
+                "displayName": "Microsoft 365 Business Premium",
+                "skuPartNumber": "SPB",
+                "skuId": "cbdc14ab-d96c-4c30-b9f4-6ada7cdc1d46"
+            },
+            {
+                "displayName": "Microsoft 365 Business Premium EEA (no Teams)",
+                "skuPartNumber": "Office_365_w/o_Teams_Bundle_Business_Premium",
+                "skuId": "a3f586b6-8cce-4d9b-99d6-55238397f77a",
+                "hasTeams": false
+            }
+        ],
+        "E1": [
+            {
+                "displayName": "Office 365 E1",
+                "skuPartNumber": "STANDARDPACK",
+                "skuId": "18181a46-0d4e-45cd-891e-60aabd171b4e"
+            },
+            {
+                "displayName": "Office 365 E1 EEA (no Teams)",
+                "skuPartNumber": "Office_365_w/o_Teams_Bundle_E1",
+                "skuId": "b57282e3-65bd-4252-9502-c0eae1e5ab7f",
+                "hasTeams": false
+            }
+        ],
+        "E3": [
+            {
+                "displayName": "Microsoft 365 E3",
+                "skuPartNumber": "SPE_E3",
+                "skuId": "05e9a617-0261-4cee-bb44-138d3ef5d965"
+            },
+            {
+                "displayName": "Microsoft 365 E3 EEA (no Teams)",
+                "skuPartNumber": "O365_w/o Teams Bundle_M3",
+                "skuId": "c2fe850d-fbbb-4858-b67d-bd0c6e746da3",
+                "hasTeams": false
+            },
+            {
+                "displayName": "Microsoft 365 E3 EEA (no Teams) - Unattended License",
+                "skuPartNumber": "Microsoft_365_E3_EEA_(no_Teams)_Unattended_License",
+                "skuId": "a23dbafb-3396-48b3-ad9c-a304fe206043",
+                "hasTeams": false
+            },
+            {
+                "displayName": "Microsoft 365 E3 - Unattended License",
+                "skuPartNumber": "SPE_E3_RPA1",
+                "skuId": "c2ac2ee4-9bb1-47e4-8541-d689c7e83371"
+            },
+            {
+                "displayName": "Microsoft 365 E3 (500 seats min)_HUB",
+                "skuPartNumber": "Microsoft_365_E3",
+                "skuId": "0c21030a-7e60-4ec7-9a0f-0042e0e0211a"
+            },
+            {
+                "displayName": "Microsoft 365 E3 EEA (no Teams) (500 seats min)_HUB",
+                "skuPartNumber": "O365_w/o Teams Bundle_M3_(500_seats_min)_HUB",
+                "skuId": "602e6573-55a3-46b1-a1a0-cc267991501a",
+                "hasTeams": false
+            },
+            {
+                "displayName": "Microsoft 365 E3_USGOV_DOD",
+                "skuPartNumber": "SPE_E3_USGOV_DOD",
+                "skuId": "d61d61cc-f992-433f-a577-5bd016037eeb"
+            },
+            {
+                "displayName": "Microsoft 365 E3_USGOV_GCCHIGH",
+                "skuPartNumber": "SPE_E3_USGOV_GCCHIGH",
+                "skuId": "ca9d1dd9-dfe9-4fef-b97c-9bc1ea3c3658"
+            },
+            {
+                "displayName": "Office 365 E3",
+                "skuPartNumber": "ENTERPRISEPACK",
+                "skuId": "6fd2c87f-b296-42f0-b197-1e91e994b900"
+            },
+            {
+                "displayName": "Office 365 E3 EEA (no Teams)",
+                "skuPartNumber": "O365_w/o_Teams_Bundle_E3",
+                "skuId": "d711d25a-a21c-492f-bd19-aae1e8ebaf30",
+                "hasTeams": false
+            },
+            {
+                "displayName": "Office 365 E3 Developer",
+                "skuPartNumber": "DEVELOPERPACK",
+                "skuId": "189a915c-fe4f-4ffa-bde4-85b9628d07a0"
+            },
+            {
+                "displayName": "Office 365 E3_USGOV_DOD",
+                "skuPartNumber": "ENTERPRISEPACK_USGOV_DOD",
+                "skuId": "b107e5a3-3e60-4c0d-a184-a7e4395eb44c"
+            },
+            {
+                "displayName": "Office 365 E3_USGOV_DOD",
+                "skuPartNumber": "ENTERPRISEPACK_USGOV_DOD",
+                "skuId": "b107e5a3-3e60-4c0d-a184-a7e4395eb44c"
+            },
+            {
+                "displayName": "Office 365 E3_USGOV_GCCHIGH",
+                "skuPartNumber": "ENTERPRISEPACK_USGOV_GCCHIGH",
+                "skuId": "aea38a85-9bd5-4981-aa00-616b411205bf"
+            }
+        ],
+        "E5": [
+            {
+                "displayName": "Microsoft 365 E5",
+                "skuPartNumber": "SPE_E5",
+                "skuId": "06ebc4ee-1bb5-47dd-8120-11324bc54e06"
+            },
+            {
+                "displayName": "Microsoft 365 E5 EEA (no Teams) with Calling Minutes",
+                "skuPartNumber": "Microsoft_365_E5_EEA_(no_Teams)_with_Calling_Minutes",
+                "skuId": "6ee4114a-9b2d-4577-9e7a-49fa43d222d3",
+                "hasTeams": false
+            },
+            {
+                "displayName": "Microsoft 365 E5 EEA (no Teams) without Audio Conferencing",
+                "skuPartNumber": "Microsoft_365_E5_EEA_(no_Teams)_without_Audio_Conferencing",
+                "skuId": "90277bc7-a6fe-4181-99d8-712b08b8d32b",
+                "hasTeams": false
+            },
+            {
+                "displayName": "Microsoft 365 E5 (500 seats min)_HUB",
+                "skuPartNumber": "Microsoft_365_E5",
+                "skuId": "db684ac5-c0e7-4f92-8284-ef9ebde75d33"
+            },
+            {
+                "displayName": "Microsoft 365 E5 Developer (without Windows and Audio Conferencing)",
+                "skuPartNumber": "DEVELOPERPACK_E5",
+                "skuId": "c42b9cae-ea4f-4ab7-9717-81576235ccac"
+            },
+            {
+                "displayName": "Microsoft 365 E5 EEA (no Teams)",
+                "skuPartNumber": "O365_w/o_Teams_Bundle_M5",
+                "skuId": "3271cf8e-2be5-4a09-a549-70fd05baaa17",
+                "hasTeams": false
+            },
+            {
+                "displayName": "Microsoft 365 E5 with Calling Minutes",
+                "skuPartNumber": "SPE_E5_CALLINGMINUTES",
+                "skuId": "a91fc4e0-65e5-4266-aa76-4037509c1626"
+            },
+            {
+                "displayName": "Microsoft 365 E5 without Audio Conferencing",
+                "skuPartNumber": "SPE_E5_CALLINGMINUTES",
+                "skuId": "cd2925a3-5076-4233-8931-638a8c94f773"
+            },
+            {
+                "displayName": "Microsoft 365 E5 without Audio Conferencing (500 seats min)_HUB",
+                "skuPartNumber": "Microsoft_365_E5_without_Audio_Conferencing",
+                "skuId": "2113661c-6509-4034-98bb-9c47bd28d63c"
+            },
+            {
+                "displayName": "Microsoft 365 E5 EEA (no Teams) (500 seats min)_HUB",
+                "skuPartNumber": "O365_w/o_Teams_Bundle_M5_(500_seats_min)_HUB",
+                "skuId": "1e988bf3-8b7c-4731-bec0-4e2a2946600c",
+                "hasTeams": false
+            },
+            {
+                "displayName": "Microsoft 365 E5 EEA (no Teams) without Audio Conferencing (500 seats min)_HUB",
+                "skuPartNumber": "Microsoft_365_E5_EEA_(no_Teams)_without_Audio_Conferencing_(500_seats_min)_HUB",
+                "skuId": "a640eead-25f6-4bec-97e3-23cfd382d7c2",
+                "hasTeams": false
+            },
+            {
+                "displayName": "Microsoft 365 E5_USGOV_GCCHIGH",
+                "skuPartNumber": "SPE_E5_USGOV_GCCHIGH",
+                "skuId": "4eb45c5b-0d19-4e33-b87c-adfc25268f20"
+            },
+            {
+                "displayName": "Office 365 E5",
+                "skuPartNumber": "ENTERPRISEPREMIUM",
+                "skuId": "c7df2760-2c81-4ef7-b578-5b5392b571df"
+            },
+            {
+                "displayName": "Office 365 E5 EEA (no Teams)",
+                "skuPartNumber": "Office_365_w/o_Teams_Bundle_E5",
+                "skuId": "cf50bae9-29e8-4775-b07c-56ee10e3776d",
+                "hasTeams": false
+            },
+            {
+                "displayName": "Office 365 E5 EEA (no Teams) without Audio Conferencing",
+                "skuPartNumber": "Office_365_E5_EEA_(no_Teams)_without_Audio_Conferencing",
+                "skuId": "71772aeb-4bb8-4f74-9dd4-36c7a9b5ca74",
+                "hasTeams": false
+            },
+            {
+                "displayName": "Office 365 E5 Without Audio Conferencing",
+                "skuPartNumber": "ENTERPRISEPREMIUM_NOPSTNCONF",
+                "skuId": "26d45bd9-adf1-46cd-a9e1-51e9a5524128"
+            },
+            {
+                "displayName": "Microsoft 365 E5 (no Teams) Trial",
+                "skuPartNumber": "Microsoft_365_E5_(no_Teams)",
+                "skuId": "18a4bd3f-0b5b-4887-b04f-61dd0ee15f5e",
+                "hasTeams": false
+            }
+        ],
+        "F1": [
+            {
+                "displayName": "Microsoft 365 F1",
+                "skuPartNumber": "M365_F1",
+                "skuId": "44575883-256e-4a79-9da4-ebe9acabe2b2"
+            },
+            {
+                "displayName": "Microsoft 365 F1 EEA (no Teams)",
+                "skuPartNumber": "Microsoft_365_F1_EEA_(no_Teams)",
+                "skuId": "0666269f-b167-4c5b-a76f-fc574f2b1118",
+                "hasTeams": false
+            },
+            {
+                "displayName": "Microsoft 365 F1",
+                "skuPartNumber": "M365_F1_COMM",
+                "skuId": "50f60901-3181-4b75-8a2c-4c8e4c1d5a72"
+            }
+        ],
+        "F3": [
+            {
+                "displayName": "Microsoft 365 F3",
+                "skuPartNumber": "SPE_F1",
+                "skuId": "66b55226-6b4f-492c-910c-a3b7a3c9d993"
+            },
+            {
+                "displayName": "Microsoft 365 F3 EEA (no Teams)",
+                "skuPartNumber": "Microsoft_365_F3_EEA_(no_Teams)",
+                "skuId": "f7ee79a7-7aec-4ca4-9fb9-34d6b930ad87",
+                "hasTeams": false
+            },
+            {
+                "displayName": "Microsoft 365 F3 GCC",
+                "skuPartNumber": "M365_F1_GOV",
+                "skuId": "2a914830-d700-444a-b73c-e3f31980d833"
+            },
+            {
+                "displayName": "Office 365 F3",
+                "skuPartNumber": "DESKLESSPACK",
+                "skuId": "4b585984-651b-448a-9e53-3b10f069cf7f"
+            },
+            {
+                "displayName": "Office 365 F3 EEA (no Teams)",
+                "skuPartNumber": "Office_365_F3_EEA_(no_Teams)",
+                "skuId": "d1f0495b-cb7b-4e11-8b85-daee7e7e5664",
+                "hasTeams": false
+            },
+            {
+                "displayName": "Office 365 F3_USGOV_GCCHIGH",
+                "skuPartNumber": "DESKLESSPACK_USGOV_GCCHIGH",
+                "skuId": "74039b88-bd62-4b5c-9d9c-7a92bbc0bfdf"
+            }
+        ],
+        "MICROSOFT_TEAMS": [
+            {
+                "displayName": "Microsoft Teams Trial",
+                "skuPartNumber": "MS_TEAMS_IW",
+                "skuId": "74fbf1bb-47c6-4796-9623-77dc7371723b"
+            },
+            {
+                "displayName": "Microsoft Teams Commercial Cloud",
+                "skuPartNumber": "TEAMS_COMMERCIAL_TRIAL",
+                "skuId": "29a2f828-8f39-4837-b8ff-c957e86abe3c"
+            },
+            {
+                "displayName": "Microsoft Teams EEA",
+                "skuPartNumber": "Microsoft_Teams_EEA_New",
+                "skuId": "7e74bd05-2c47-404e-829a-ba95c66fe8e5"
+            },
+            {
+                "displayName": "Microsoft Teams Enterprise Trial",
+                "skuPartNumber": "Microsoft_Teams_Enterprise_New",
+                "skuId": "7e31c0d9-9551-471d-836f-32ee72be4a01"
+            }
+        ],
+        "TEAMS_EXPLORATORY": [
+            {
+                "displayName": "Microsoft Teams Exploratory",
+                "skuPartNumber": "TEAMS_EXPLORATORY",
+                "skuId": "710779e8-3d4a-4c88-adb9-386c958d1fdf"
+            },
+            {
+                "displayName": "Microsoft Teams Exploratory Dept",
+                "skuPartNumber": "Microsoft_Teams_Exploratory_Dept",
+                "skuId": "e0dfc8b9-9531-4ec8-94b4-9fec23b05fc8"
+            }
+        ]
+    },
+    "PHONE_LICENSE": {
+        "COMMON_AREA_PHONE": [
+            {
+                "displayName": "Microsoft Teams Shared Devices",
+                "skuPartNumber": "MCOCAP",
+                "skuId": "295a8eb0-f78d-45c7-8b5b-1eed5ed02dff"
+            },
+            {
+                "displayName": "Microsoft Teams Shared Devices for Faculty",
+                "skuPartNumber": "MCOCAP_FACULTY",
+                "skuId": "420c7602-7f70-4895-9394-d3d679ea36fb"
+            },
+            {
+                "displayName": "Microsoft Teams Shared Devices for GCC",
+                "skuPartNumber": "MCOCAP_GOV",
+                "skuId": "b1511558-69bd-4e1b-8270-59ca96dba0f3"
+            }
+        ],
+        "MTR_BASIC": [
+            {
+                "displayName": "Microsoft Teams Rooms Basic",
+                "skuPartNumber": "Microsoft_Teams_Rooms_Basic",
+                "skuId": "6af4b3d6-14bb-4a2a-960c-6c902aad34f3"
+            },
+            {
+                "displayName": "Microsoft Teams Rooms Basic for EDU",
+                "skuPartNumber": "Microsoft_Teams_Rooms_Basic_FAC",
+                "skuId": "a4e376bd-c61e-4618-9901-3fc0cb1b88bb"
+            },
+            {
+                "displayName": "Microsoft Teams Rooms Basic without Audio Conferencing",
+                "skuPartNumber": "Microsoft_Teams_Rooms_Basic_without_Audio_Conferencing",
+                "skuId": "50509a35-f0bd-4c5e-89ac-22f0e16a00f8"
+            }
+        ],
+        "MTR_PRO": [
+            {
+                "displayName": "Microsoft Teams Rooms Pro",
+                "skuPartNumber": "Microsoft_Teams_Rooms_Pro",
+                "skuId": "4cde982a-ede4-4409-9ae6-b003453c8ea6"
+            },
+            {
+                "displayName": "Microsoft Teams Rooms Pro for EDU",
+                "skuPartNumber": "Microsoft_Teams_Rooms_Pro_FAC",
+                "skuId": "c25e2b36-e161-4946-bef2-69239729f690"
+            },
+            {
+                "displayName": "Microsoft Teams Rooms Pro for GCC",
+                "skuPartNumber": "Microsoft_Teams_Rooms_Pro_GCC",
+                "skuId": "31ecb341-2a17-483e-9140-c473006d1e1a"
+            },
+            {
+                "displayName": "Microsoft Teams Rooms Pro without Audio Conferencing",
+                "skuPartNumber": "Microsoft_Teams_Rooms_Pro_without_Audio_Conferencing",
+                "skuId": "21943e3a-2429-4f83-84c1-02735cd49e78"
+            }
+        ],
+        "MTR_STANDARD": [
+            {
+                "displayName": "Microsoft Teams Rooms Standard",
+                "skuPartNumber": "MEETING_ROOM",
+                "skuId": "6070a4c8-34c6-4937-8dfb-39bbc6397a60"
+            },
+            {
+                "displayName": "Microsoft Teams Rooms Standard without Audio Conferencing",
+                "skuPartNumber": "MEETING_ROOM_NOAUDIOCONF",
+                "skuId": "61bec411-e46a-4dab-8f46-8b58ec845ffe"
+            },
+            {
+                "displayName": "Microsoft Teams Rooms Standard for GCC",
+                "skuPartNumber": "MEETING_ROOM_GOV",
+                "skuId": "9571e9ac-2741-4b63-95fd-a79696f0d0ac"
+            },
+            {
+                "displayName": "Microsoft Teams Rooms Standard for GCC without Audio Conferencing",
+                "skuPartNumber": "MEETING_ROOM_GOV_NOAUDIOCONF",
+                "skuId": "b4348f75-a776-4061-ac6c-36b9016b01d1"
+            }
+        ],
+        "MTR_PREMIUM": [
+            {
+                "displayName": "Teams Rooms Premium",
+                "skuPartNumber": "MTR_PREM",
+                "skuId": "4fb214cb-a430-4a91-9c91-4976763aa78f"
+            }
+        ],
+        "PHONE_SYSTEM": [
+            {
+                "skuId": "e43b5b99-8dfb-405f-9987-dc307f34bcbd",
+                "skuPartNumber": "MCOEV",
+                "displayName": "Microsoft Teams Phone Standard"
+            },
+            {
+                "skuId": "d01d9287-694b-44f3-bcc5-ada78c8d953e",
+                "skuPartNumber": "MCOEV_DOD",
+                "displayName": "Microsoft Teams Phone Standard for DOD"
+            },
+            {
+                "skuId": "d979703c-028d-4de5-acbf-7955566b69b9",
+                "skuPartNumber": "MCOEV_FACULTY",
+                "displayName": "Microsoft Teams Phone Standard for Faculty"
+            },
+            {
+                "skuId": "a460366a-ade7-4791-b581-9fbff1bdaa85",
+                "skuPartNumber": "MCOEV_GOV",
+                "displayName": "Microsoft Teams Phone Standard for GCC"
+            },
+            {
+                "skuId": "a460366a-ade7-4791-b581-9fbff1bdaa85",
+                "skuPartNumber": "MCOEV_GOV",
+                "displayName": "Microsoft Teams Phone Standard for GCC"
+            },
+            {
+                "skuId": "7035277a-5e49-4abc-a24f-0ec49c501bb5",
+                "skuPartNumber": "MCOEV_GCCHIGH",
+                "displayName": "Microsoft Teams Phone Standard for GCCHIGH"
+            },
+            {
+                "skuId": "aa6791d3-bb09-4bc2-afed-c30c3fe26032",
+                "skuPartNumber": "MCOEVSMB_1",
+                "displayName": "Microsoft Teams Phone Standard for Small and Medium Business"
+            },
+            {
+                "skuId": "1f338bbc-767e-4a1e-a2d4-b73207cc5b93",
+                "skuPartNumber": "MCOEV_STUDENT",
+                "displayName": "Microsoft Teams Phone Standard for Students"
+            },
+            {
+                "skuId": "ffaf2d68-1c95-4eb3-9ddd-59b81fba0f61",
+                "skuPartNumber": "MCOEV_TELSTRA",
+                "displayName": "Microsoft Teams Phone Standard for TELSTRA"
+            },
+            {
+                "skuId": "b0e7de67-e503-4934-b729-53d595ba5cd1",
+                "skuPartNumber": "MCOEV_USGOV_DOD",
+                "displayName": "Microsoft Teams Phone Standard_USGOV_DOD"
+            },
+            {
+                "skuId": "985fcb26-7b94-475b-b512-89356697be71",
+                "skuPartNumber": "MCOEV_USGOV_GCCHIGH",
+                "displayName": "Microsoft Teams Phone Standard_USGOV_GCCHIGH"
+            }
+        ],
+        "PHONE_SYSTEM_VIRTUAL_USER": [
+            {
+                "skuId": "440eaaa8-b3e0-484b-a8be-62870b9ba70a",
+                "skuPartNumber": "PHONESYSTEM_VIRTUALUSER",
+                "displayName": "Microsoft Teams Phone Resource Account"
+            },
+            {
+                "skuId": "0e142028-345e-45da-8d92-8bfd4093bbb9",
+                "skuPartNumber": "PHONESYSTEM_VIRTUALUSER_FACULTY",
+                "displayName": "Microsoft Teams Phone Resource Account for Faculty"
+            },
+            {
+                "skuId": "2cf22bcb-0c9e-4bc6-8daf-7e7654c0f285",
+                "skuPartNumber": "PHONESYSTEM_VIRTUALUSER_GOV",
+                "displayName": "Microsoft Teams Phone Resource Account for GCC"
+            },
+            {
+                "skuId": "e3f0522e-ebb7-4561-9f90-b44516d65b77",
+                "skuPartNumber": "PHONESYSTEM_VIRTUALUSER_USGOV_GCCHIGH",
+                "displayName": "Microsoft Teams Phone Resource Account_USGOV_GCCHIGH"
+            }
+        ]
+    }
+}
